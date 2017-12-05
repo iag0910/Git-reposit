@@ -3,7 +3,7 @@
  *
  * @author Alexey G. Ivanov
  * @version dated Dec 05, 2017
- * @git-reference https://github.com/iag0910/Git-reposit.git
+ * @link https://github.com/iag0910
  */
 
 import java.util.*;
